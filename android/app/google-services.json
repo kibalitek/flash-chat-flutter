@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864946413471",
+    "firebase_url": "https://busia-team.firebaseio.com",
+    "project_id": "busia-team",
+    "storage_bucket": "busia-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864946413471:android:55dcbefea742aabe",
+        "android_client_info": {
+          "package_name": "com.kibalitek.busia_team_members"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864946413471-uigplrf8fc2vl0csi89ta4h2o4tc33pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKShGqqzRzUIw5VKpnhcWpUTtYPMuzUKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864946413471-uigplrf8fc2vl0csi89ta4h2o4tc33pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
